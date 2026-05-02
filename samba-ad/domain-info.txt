@@ -1,0 +1,3 @@
+Domain: IT54.LOCAL
+Realm: IT54.LOCAL
+Server Role: Active Directory Domain Controller
